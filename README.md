@@ -31,4 +31,4 @@ To install and run this project, follow these steps:
 
 ## Deploy Link
 
-[Live Project link]()
+[Live Project link](https://socon-assignment-react-js-developer.vercel.app/)
